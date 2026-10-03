@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>QuotaCrew for Codex — New address</title>
+		<link rel="canonical" href="https://erkanpulat.github.io/en/projects/quotacrew/" />
+		<script>
+			const destination = new URL("/en/projects/quotacrew/", location.origin);
+			const language = new URLSearchParams(location.search).get("lang");
+			if (language === "en" || language === "tr")
+				destination.pathname = (language === "en" ? "/en" : "") + "/projects/quotacrew/";
+			destination.hash = location.hash;
+			location.replace(destination.href);
+		</script>
+		<meta
+			http-equiv="refresh"
+			content="0; url=https://erkanpulat.github.io/en/projects/quotacrew/"
+		/>
+	</head>
+	<body>
+		<h1>QuotaCrew for Codex</h1>
+		<p><a href="/en/projects/quotacrew/">Open the current QuotaCrew page</a></p>
+	</body>
+</html>

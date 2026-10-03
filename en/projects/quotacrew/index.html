@@ -1,0 +1,655 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>QuotaCrew: Codex Account &amp; Quota Manager | Erkan Pulat</title>
+		<meta
+			name="description"
+			content="Manage Codex accounts and quotas with QuotaCrew. Automatic account switching, Desktop and VS Code conversation continuation, and job tracking. Free Windows app."
+		/>
+		<meta name="robots" content="index, follow, max-image-preview:large" />
+		<meta name="author" content="Erkan Pulat" />
+		<link rel="canonical" href="https://erkanpulat.github.io/en/projects/quotacrew/" />
+		<link
+			rel="alternate"
+			hreflang="tr"
+			href="https://erkanpulat.github.io/projects/quotacrew/"
+		/>
+		<link
+			rel="alternate"
+			hreflang="en"
+			href="https://erkanpulat.github.io/en/projects/quotacrew/"
+		/>
+		<link
+			rel="alternate"
+			hreflang="x-default"
+			href="https://erkanpulat.github.io/projects/quotacrew/"
+		/>
+		<link rel="alternate" type="text/markdown" href="/en/projects/quotacrew/index.md" />
+		<link rel="describedby" href="/llms.txt" type="text/markdown" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Erkan Pulat" />
+		<meta
+			property="og:title"
+			content="QuotaCrew: Codex Account &amp; Quota Manager | Erkan Pulat"
+		/>
+		<meta
+			property="og:description"
+			content="Manage Codex accounts and quotas with QuotaCrew. Automatic account switching, Desktop and VS Code conversation continuation, and job tracking. Free Windows app."
+		/>
+		<meta property="og:url" content="https://erkanpulat.github.io/en/projects/quotacrew/" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:locale:alternate" content="tr_TR" />
+		<meta
+			property="og:image"
+			content="https://erkanpulat.github.io/projects/codex-account-manager/assets/overview-dark.png"
+		/>
+		<meta property="og:image:width" content="1480" />
+		<meta property="og:image:height" content="960" />
+		<meta property="og:image:alt" content="Accounts, remaining quotas and renewal times" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta
+			name="twitter:title"
+			content="QuotaCrew: Codex Account &amp; Quota Manager | Erkan Pulat"
+		/>
+		<meta
+			name="twitter:description"
+			content="Manage Codex accounts and quotas with QuotaCrew. Automatic account switching, Desktop and VS Code conversation continuation, and job tracking. Free Windows app."
+		/>
+		<meta
+			name="twitter:image"
+			content="https://erkanpulat.github.io/projects/codex-account-manager/assets/overview-dark.png"
+		/>
+		<meta name="twitter:image:alt" content="Accounts, remaining quotas and renewal times" />
+		<meta name="color-scheme" content="dark" />
+		<meta name="theme-color" content="#05070d" />
+		<link
+			rel="icon"
+			href="/projects/codex-account-manager/assets/app.svg"
+			type="image/svg+xml"
+		/>
+		<link rel="stylesheet" href="/projects/fonts.css" />
+		<link rel="stylesheet" href="/projects/project-showcase.css" />
+		<link rel="stylesheet" href="/projects/codex-account-manager/quotacrew.css" />
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "WebPage",
+						"@id": "https://erkanpulat.github.io/en/projects/quotacrew/#page",
+						"url": "https://erkanpulat.github.io/en/projects/quotacrew/",
+						"name": "QuotaCrew: Codex Account & Quota Manager | Erkan Pulat",
+						"description": "Manage Codex accounts and quotas with QuotaCrew. Automatic account switching, Desktop and VS Code conversation continuation, and job tracking. Free Windows app.",
+						"inLanguage": "en",
+						"mainEntity": {
+							"@id": "https://erkanpulat.github.io/projects/quotacrew/#software"
+						},
+						"breadcrumb": {
+							"@id": "https://erkanpulat.github.io/en/projects/quotacrew/#breadcrumb"
+						}
+					},
+					{
+						"@type": "SoftwareApplication",
+						"@id": "https://erkanpulat.github.io/projects/quotacrew/#software",
+						"name": "QuotaCrew for Codex",
+						"alternateName": [
+							"QuotaCrew",
+							"Codex Account Manager",
+							"Codex Hesap Yöneticisi"
+						],
+						"description": "Your Codex accounts, remaining quotas and ongoing work in one window. Find an available account, choose how you switch, and request continuation of eligible conversations in Desktop or VS Code with QuotaCrew.",
+						"url": "https://erkanpulat.github.io/en/projects/quotacrew/",
+						"operatingSystem": "Windows",
+						"applicationCategory": "DeveloperApplication",
+						"applicationSubCategory": "Codex account and quota management",
+						"isAccessibleForFree": true,
+						"offers": {
+							"@type": "Offer",
+							"price": "0",
+							"priceCurrency": "USD",
+							"url": "https://github.com/erkanpulat/codex-quotacrew/releases/latest"
+						},
+						"downloadUrl": "https://github.com/erkanpulat/codex-quotacrew/releases/latest",
+						"installUrl": "https://github.com/erkanpulat/codex-quotacrew/releases/latest",
+						"sameAs": ["https://github.com/erkanpulat/codex-quotacrew"],
+						"license": "https://opensource.org/license/mit",
+						"author": {
+							"@type": "Person",
+							"name": "Erkan Pulat",
+							"url": "https://erkanpulat.github.io"
+						},
+						"inLanguage": ["tr", "en"],
+						"screenshot": [
+							"https://erkanpulat.github.io/projects/codex-account-manager/assets/overview-dark.webp",
+							"https://erkanpulat.github.io/projects/codex-account-manager/assets/jobs-dark-tr.webp"
+						],
+						"image": "https://erkanpulat.github.io/projects/codex-account-manager/assets/overview-dark.webp",
+						"featureList": [
+							"Capacity at a glance: Compare five-hour and weekly remaining quotas, renewal times, the active account and reset credits in one table.",
+							"Switch on your terms: Change accounts yourself, approve a suggestion or enable automatic switching to an available account. Pause monitoring and continuation whenever you need.",
+							"Continue in Desktop and VS Code: A continuation request goes to the same eligible, quota-interrupted conversation. Its existing goal, instructions and budget stay in place.",
+							"Jobs and activity: Follow running, completed and quota-interrupted work. Inspect preparation, submission and the observed result of a continuation request.",
+							"Fit your working routine: Monitor from the system tray, start with Windows or schedule shutdown when work finishes, limits run out or a timer expires.",
+							"Update from the app: Review new stable releases and release notes. Installed copies verify the package and back up local data before updating."
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://erkanpulat.github.io/en/projects/quotacrew/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Erkan Pulat",
+								"item": "https://erkanpulat.github.io/en/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "QuotaCrew for Codex",
+								"item": "https://erkanpulat.github.io/en/projects/quotacrew/"
+							}
+						]
+					}
+				]
+			}
+		</script>
+		<script src="/projects/codex-account-manager/legacy-language.js" defer></script>
+	</head>
+	<body class="quotacrew">
+		<div class="project-sky" aria-hidden="true"></div>
+		<a class="skip" href="#main">Skip to content</a>
+		<header class="nav wrap">
+			<a class="brand" href="/en/" aria-label="Erkan Pulat"
+				><img src="/logo-transparent.png" width="48" height="48" alt="Erkan Pulat" /><span
+					class="brand-muted"
+					>Project journal</span
+				></a
+			>
+			<nav aria-label="Project navigation">
+				<a href="#features">Features</a><a href="#how">How it works</a
+				><a href="#setup">Get started</a
+				><a
+					class="language-link"
+					href="/projects/quotacrew/"
+					lang="tr"
+					hreflang="tr"
+					aria-label="Türkçeye geç"
+					>TR</a
+				>
+			</nav>
+		</header>
+		<main id="main">
+			<section class="hero wrap">
+				<div class="project-label">
+					<span>PROJECT LOG / 001</span><span class="status-dot">OPEN SOURCE</span>
+				</div>
+				<p class="product-name">
+					<img
+						src="/projects/codex-account-manager/assets/app.svg"
+						width="40"
+						height="40"
+						alt=""
+					/>QuotaCrew <span>for Codex</span>
+				</p>
+				<h1>
+					<span class="sr-only">QuotaCrew — </span>Switch accounts.<br /><em
+						>Keep work moving.</em
+					>
+				</h1>
+				<p class="lead">
+					Your Codex accounts, remaining quotas and ongoing work in one window. Find an
+					available account, choose how you switch, and request continuation of eligible
+					conversations in Desktop or VS Code with QuotaCrew.
+				</p>
+				<p class="legacy-name">Codex Account Manager is now QuotaCrew for Codex.</p>
+				<div class="actions">
+					<a
+						class="button primary"
+						href="https://github.com/erkanpulat/codex-quotacrew/releases/latest"
+						>Download for Windows <span aria-hidden="true">↓</span></a
+					><a
+						class="button secondary"
+						href="https://github.com/erkanpulat/codex-quotacrew"
+						>Explore the source ↗</a
+					>
+				</div>
+				<p class="download-note">
+					Free · Windows x64 · Python included · No Node.js required
+				</p>
+				<dl class="project-facts">
+					<div>
+						<dt>PLATFORM</dt>
+						<dd>Windows</dd>
+					</div>
+					<div>
+						<dt>INTERFACE</dt>
+						<dd>English / Türkçe</dd>
+					</div>
+					<div>
+						<dt>LICENSE</dt>
+						<dd>MIT · Open source</dd>
+					</div>
+				</dl>
+				<div class="preview">
+					<div class="image-label"><span>01 / OVERVIEW</span><span>QUOTACREW</span></div>
+					<a
+						href="https://github.com/erkanpulat/codex-quotacrew/releases/latest"
+						aria-label="Download for Windows"
+						><img
+							src="/projects/codex-account-manager/assets/overview-dark.webp"
+							srcset="
+								/projects/codex-account-manager/assets/overview-dark-small.webp  740w,
+								/projects/codex-account-manager/assets/overview-dark.webp       1480w
+							"
+							sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+							width="1480"
+							height="960"
+							alt="Accounts, remaining quotas and renewal times"
+							fetchpriority="high"
+					/></a>
+				</div>
+				<p class="caption">
+					Actual application captures from the README. Account details are sample data.
+				</p>
+			</section>
+			<section id="features" class="features wrap" aria-labelledby="features-title">
+				<p class="eyebrow">01 / ACCOUNTS AND QUOTAS</p>
+				<h2 id="features-title">See your limits. Choose your next step.</h2>
+				<div class="feature-grid">
+					<article>
+						<h3>Capacity at a glance</h3>
+						<p>
+							Compare five-hour and weekly remaining quotas, renewal times, the active
+							account and reset credits in one table.
+						</p>
+					</article>
+					<article>
+						<h3>Switch on your terms</h3>
+						<p>
+							Change accounts yourself, approve a suggestion or enable automatic
+							switching to an available account. Pause monitoring and continuation
+							whenever you need.
+						</p>
+					</article>
+					<article>
+						<h3>Continue in Desktop and VS Code</h3>
+						<p>
+							A continuation request goes to the same eligible, quota-interrupted
+							conversation. Its existing goal, instructions and budget stay in place.
+						</p>
+					</article>
+					<article>
+						<h3>Jobs and activity</h3>
+						<p>
+							Follow running, completed and quota-interrupted work. Inspect
+							preparation, submission and the observed result of a continuation
+							request.
+						</p>
+					</article>
+					<article>
+						<h3>Fit your working routine</h3>
+						<p>
+							Monitor from the system tray, start with Windows or schedule shutdown
+							when work finishes, limits run out or a timer expires.
+						</p>
+					</article>
+					<article>
+						<h3>Update from the app</h3>
+						<p>
+							Review new stable releases and release notes. Installed copies verify
+							the package and back up local data before updating.
+						</p>
+					</article>
+				</div>
+			</section>
+			<section id="how" class="flow-section wrap" aria-labelledby="flow-title">
+				<p class="eyebrow">02 / CONTINUATION</p>
+				<div class="chapter-heading">
+					<h2 id="flow-title">When a limit hits, keep the conversation.</h2>
+					<p class="section-copy">
+						With monitoring and the relevant continuation option enabled, QuotaCrew
+						checks interrupted work and an available account. After switching, it sends
+						a request to the same conversation and tracks the new turn’s result.
+					</p>
+				</div>
+				<figure class="flow-diagram">
+					<img
+						src="/projects/codex-account-manager/assets/continuation-flow-en.svg"
+						width="1200"
+						height="630"
+						loading="lazy"
+						alt="Check the quota, switch accounts, request continuation in the same conversation and track the result"
+					/>
+				</figure>
+				<p class="flow-note">
+					Automatic Desktop and IDE continuation is experimental and depends on connection
+					support in your installed Codex version. The handoff can take a few minutes.
+					Approval steps and user responses stay under your control.
+				</p>
+				<a
+					class="text-link"
+					href="https://github.com/erkanpulat/codex-quotacrew/blob/main/docs/continuity.md"
+					>Read the continuation details ↗</a
+				>
+			</section>
+			<section class="gallery wrap" aria-labelledby="jobs-title">
+				<div>
+					<p class="eyebrow">03 / JOBS AND CONVERSATIONS</p>
+					<h2 id="jobs-title">Know where your work stands.</h2>
+					<p class="section-copy">
+						See conversations, their accounts and last-check times together in Jobs.
+						Search local history by project, source, title or folder and open the
+						project in your editor.
+					</p>
+				</div>
+				<figure class="preview">
+					<img
+						src="/projects/codex-account-manager/assets/jobs-dark-tr.webp"
+						srcset="
+							/projects/codex-account-manager/assets/jobs-dark-tr-small.webp  740w,
+							/projects/codex-account-manager/assets/jobs-dark-tr.webp       1480w
+						"
+						sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+						width="1480"
+						height="960"
+						alt="QuotaCrew Jobs page with running, completed and quota-interrupted conversations"
+						loading="lazy"
+						decoding="async"
+					/>
+					<figcaption>Jobs · Turkish interface, dark theme</figcaption>
+				</figure>
+				<details class="screen-detail">
+					<summary>Local conversations · search by project</summary>
+					<figure class="preview">
+						<img
+							src="/projects/codex-account-manager/assets/conversations-tr.webp"
+							srcset="
+								/projects/codex-account-manager/assets/conversations-tr-small.webp  740w,
+								/projects/codex-account-manager/assets/conversations-tr.webp       1480w
+							"
+							sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+							width="1480"
+							height="960"
+							alt="QuotaCrew local conversation history and project filters"
+							loading="lazy"
+							decoding="async"
+						/>
+						<figcaption>Local conversations · search by project</figcaption>
+					</figure>
+				</details>
+			</section>
+			<section class="gallery wrap" aria-labelledby="ide-title">
+				<div>
+					<p class="eyebrow">04 / VS CODE</p>
+					<h2 id="ide-title">Continue inside your editor, too.</h2>
+					<p class="section-copy">
+						Use OpenAI’s Codex extension in VS Code. Enable IDE continuation in
+						QuotaCrew; if the session needs to reload, also enable VS Code refresh. The
+						single local window reopens the interrupted conversation’s workspace and
+						that same conversation.
+					</p>
+				</div>
+				<figure class="preview">
+					<img
+						src="/projects/codex-account-manager/assets/ide-continuation-example.webp"
+						srcset="
+							/projects/codex-account-manager/assets/ide-continuation-example-small.webp  740w,
+							/projects/codex-account-manager/assets/ide-continuation-example.webp       1480w
+						"
+						sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+						width="1480"
+						height="833"
+						alt="Illustration of a Codex conversation and continuation request in VS Code"
+						loading="lazy"
+						decoding="async"
+					/>
+					<figcaption>
+						AI-generated illustration from the README; this is not a live test
+						screenshot.
+					</figcaption>
+				</figure>
+				<details class="screen-detail">
+					<summary>Continuation preferences · choose the automation you need</summary>
+					<figure class="preview">
+						<img
+							src="/projects/codex-account-manager/assets/continuation-en.webp"
+							srcset="
+								/projects/codex-account-manager/assets/continuation-en-small.webp  740w,
+								/projects/codex-account-manager/assets/continuation-en.webp       1040w
+							"
+							sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+							width="1040"
+							height="700"
+							alt="Desktop and IDE continuation with optional VS Code refresh"
+							loading="lazy"
+							decoding="async"
+						/>
+						<figcaption>
+							Continuation preferences · choose the automation you need
+						</figcaption>
+					</figure>
+				</details>
+			</section>
+			<section class="routine wrap" aria-labelledby="routine-title">
+				<p class="eyebrow">05 / YOUR ROUTINE</p>
+				<h2 id="routine-title">Start, follow, finish.</h2>
+				<div class="routine-grid">
+					<article>
+						<h3>Automatic shutdown</h3>
+						<p>
+							Plan shutdown after a selected job finishes, all saved accounts’
+							available limits run out, or 1–1440 minutes. Verified work and limit
+							conditions begin a cancellable two-minute countdown when no other work
+							is running. Timer mode does not wait for jobs to finish.
+						</p>
+						<figure class="preview">
+							<img
+								src="/projects/codex-account-manager/assets/power-tr.webp"
+								srcset="
+									/projects/codex-account-manager/assets/power-tr-small.webp  740w,
+									/projects/codex-account-manager/assets/power-tr.webp       1280w
+								"
+								sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+								width="1280"
+								height="820"
+								alt="Automatic shutdown conditions and countdown in minutes, in Turkish"
+								loading="lazy"
+								decoding="async"
+							/>
+							<figcaption>Automatic shutdown</figcaption>
+						</figure>
+					</article>
+					<article>
+						<h3>Verified updates</h3>
+						<p>
+							Installed copies check for stable releases. Read the release notes and
+							choose Update: package size and SHA-256 are verified, data is backed up
+							and QuotaCrew restarts. Portable copies are updated manually.
+						</p>
+						<figure class="preview">
+							<img
+								src="/projects/codex-account-manager/assets/updates-en.webp"
+								srcset="
+									/projects/codex-account-manager/assets/updates-en-small.webp  740w,
+									/projects/codex-account-manager/assets/updates-en.webp       1280w
+								"
+								sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+								width="1280"
+								height="850"
+								alt="Installed version, update checks and release notes"
+								loading="lazy"
+								decoding="async"
+							/>
+							<figcaption>Verified updates</figcaption>
+						</figure>
+					</article>
+				</div>
+			</section>
+			<section id="setup" class="setup wrap" aria-labelledby="setup-title">
+				<p class="eyebrow">06 / GET STARTED</p>
+				<h2 id="setup-title">Three steps to your own workflow.</h2>
+				<a
+					class="installation-art"
+					href="https://github.com/erkanpulat/codex-quotacrew/releases/latest"
+					aria-label="Download for Windows"
+					><img
+						src="/projects/codex-account-manager/assets/installation-en.svg"
+						width="1200"
+						height="420"
+						loading="lazy"
+						alt="Download QuotaCrew, choose preferences and add an account"
+				/></a>
+				<ol class="setup-steps">
+					<li>
+						<h3>Download and open</h3>
+						<p>
+							Get the Windows installer from the latest release. For portable use,
+							extract the entire ZIP into a folder and open QuotaCrew.exe.
+						</p>
+					</li>
+					<li>
+						<h3>Choose your preferences</h3>
+						<p>
+							The first-run assistant introduces monitoring, switching, continuation
+							and tray options. If Codex CLI is missing, it offers official Windows
+							installation with your consent.
+						</p>
+					</li>
+					<li>
+						<h3>Add your accounts</h3>
+						<p>
+							Open My accounts → Add account and give it a recognizable name. Complete
+							sign-in in the terminal and browser, add your other accounts and refresh
+							their quotas.
+						</p>
+					</li>
+				</ol>
+				<details class="screen-detail">
+					<summary>
+						First-run monitoring, account switching and continuation preferences
+					</summary>
+					<figure class="preview">
+						<img
+							src="/projects/codex-account-manager/assets/setup-preferences-en.webp"
+							srcset="
+								/projects/codex-account-manager/assets/setup-preferences-en-small.webp 740w,
+								/projects/codex-account-manager/assets/setup-preferences-en.webp       760w
+							"
+							sizes="(max-width: 760px) calc(100vw - 48px), 1106px"
+							width="760"
+							height="600"
+							alt="First-run monitoring, account switching and continuation preferences"
+							loading="lazy"
+							decoding="async"
+						/>
+						<figcaption>
+							First-run monitoring, account switching and continuation preferences
+						</figcaption>
+					</figure>
+				</details>
+			</section>
+			<section class="trust wrap" aria-labelledby="privacy-title">
+				<div>
+					<p class="eyebrow">07 / PRIVACY</p>
+					<h2 id="privacy-title">Your accounts and history stay local.</h2>
+					<p>
+						Profiles, preferences and tracking records stay on your computer. QuotaCrew
+						has no telemetry or credential proxy. Installation and updates preserve your
+						existing Codex conversation history.
+					</p>
+					<a class="text-link" href="/projects/quotacrew/privacy.html#english"
+						>Privacy policy ↗</a
+					>
+				</div>
+				<a
+					class="button secondary"
+					href="https://github.com/erkanpulat/codex-quotacrew/blob/main/SECURITY.md"
+					>Security and data storage ↗</a
+				>
+			</section>
+			<section class="faq wrap" aria-labelledby="faq-title">
+				<h2 id="faq-title">Questions before you start</h2>
+				<details open>
+					<summary>What is QuotaCrew? Is it Codex Account Manager?</summary>
+					<p>
+						Yes. QuotaCrew for Codex is the new name of Codex Account Manager. It is a
+						free, MIT-licensed Windows app I built for Codex accounts, quota tracking,
+						account switching and continuation of eligible conversations.
+					</p>
+				</details>
+				<details>
+					<summary>Does it work with VS Code?</summary>
+					<p>
+						It offers experimental continuation for local VS Code conversations opened
+						with OpenAI’s Codex extension. Optional automatic refresh supports one local
+						window. Remote, WSL, cloud and other-device conversations are outside this
+						scope.
+					</p>
+				</details>
+				<details>
+					<summary>Will every interrupted task resume automatically?</summary>
+					<p>
+						Continuation is not guaranteed for every task. Monitoring and the relevant
+						option must be enabled; the quota interruption, available account and
+						conversation connection must be verified. A continuation request is new
+						model input and can consume quota. User approval steps are not skipped.
+					</p>
+				</details>
+				<details>
+					<summary>Do I need to install Python or Node.js?</summary>
+					<p>
+						The Windows package includes Python; Node.js is not required. If Codex CLI
+						is missing, the first-run assistant offers installation with your consent.
+						Account switching restarts Codex Desktop; save your work first.
+					</p>
+				</details>
+				<details>
+					<summary>How are credentials stored?</summary>
+					<p>
+						They stay on your computer. The Microsoft Store build in preparation
+						encrypts saved profile credentials and switch-recovery data with Windows
+						DPAPI. The shared Codex credential file and SQLite metadata remain
+						unencrypted; older published versions use file permissions. See the privacy
+						policy for details. Diagnostic exports exclude credentials, databases and
+						conversation text.
+					</p>
+				</details>
+				<details>
+					<summary>Is it free? Does it increase account quotas?</summary>
+					<p>
+						QuotaCrew is free and open source. It does not increase quotas; it helps you
+						track existing capacity and manage account switches. It is independent
+						community software, not affiliated with or endorsed by OpenAI.
+					</p>
+				</details>
+			</section>
+			<section class="closing wrap">
+				<p class="eyebrow">QUOTACREW FOR CODEX</p>
+				<h2>Less account juggling. More time to build.</h2>
+				<a
+					class="button primary"
+					href="https://github.com/erkanpulat/codex-quotacrew/releases/latest"
+					>Download for Windows ↓</a
+				>
+			</section>
+			<div class="return-orbit wrap">
+				<a href="/en/#bolum-kendi-yildizlarim">← Back to the universe</a>
+			</div>
+			<aside class="project-switcher wrap" aria-label="MORE TO EXPLORE">
+				<p class="eyebrow">MORE TO EXPLORE</p>
+				<a class="text-link" href="/projects/radyotara/?lang=en">Radyotara →</a
+				><a class="text-link" href="/projects/kelimetahminoyunu/?lang=en"
+					>Word Guessing Game →</a
+				>
+			</aside>
+		</main>
+		<footer class="wrap">
+			<span>QuotaCrew for Codex · MIT</span
+			><span>Independent community software. Not affiliated with OpenAI.</span
+			><a href="https://github.com/erkanpulat/codex-quotacrew/issues">Report an issue ↗</a>
+		</footer>
+	</body>
+</html>

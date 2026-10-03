@@ -1,0 +1,540 @@
+# Erkan Pulat — Full reference
+
+Source: https://erkanpulat.github.io/
+
+# Erkan Pulat — Software Engineer
+
+> Kodla şekillenen bu evren, merakla başlayan bir yolculuğun bugünkü hâli.
+
+https://erkanpulat.github.io/
+
+İstanbul
+
+## Yolculuk ve deneyim
+
+### İlk Gezegen — İnönü Üniversitesi · Bilgisayar Mühendisliği
+
+İlk keşfim beni İnönü Üniversitesi’ne götürdü. Burası, yazılım evreninin sandığımdan çok daha büyük olduğunu fark ettiğim yerdi.
+
+Algoritmalar, veri yapıları, yazılım mühendisliği, makine öğrenmesi… Her biri keşfedilmeyi bekleyen farklı bir galaksiydi. Bir galaksiyi keşfettikçe, ufukta bir diğeri beliriyordu. Evren, her keşifle biraz daha genişliyordu.
+
+İşte tam burada, merakım yönünü buldu. Fark ettim ki beni bu yolculuğa bağlayan şey yalnızca öğrenmek değildi; keşfettiklerimle gerçek problemlere çözüm üretmekti.
+
+### Dönüşüm — Cubicl · ODTÜ Teknokent
+
+Bu kez önümde dersler ya da ödevler değil; çözülmeyi bekleyen gerçek problemler, birlikte çalıştığım ve bana güvenen ekip arkadaşlarım, yazdığım satırların ortaya çıkardığı sistemleri kullanan binlerce kullanıcı vardı. Bu gezegenin kendi kuralları vardı: yazdığım her satırın bir karşılığı, aldığım her kararın bir sonucu vardı.
+
+Bu gezegenin adı Cubicl idi.
+
+Burada yalnızca yazılım geliştirmedim. Bir ürünün fikir aşamasından başlayıp gerçek kullanıcılarla buluşmasına ve zamanla gelişmeye devam etmesine kadar geçen yolculuğun her aşamasında sorumluluk aldım. İşte burada, iyi mühendisliğin yalnızca kod yazmak değil; bir sistemi uçtan uca sahiplenmek, onu büyütmek ve güvenle ayakta kalmasını sağlamak olduğunu öğrendim.
+
+### Kendi Yıldızlarım — Tekâmül
+
+İlk kez önümde izlenecek hazır bir rota yoktu. Bu evrende parlayacak her yıldız, vereceğim kararlarla şekillenecekti.
+
+Yıllar boyunca edindiğim deneyimleri bu kez kendi fikirlerime dönüştürdüm. Mimarisinden kullanıcı deneyimine, sunucu altyapısından canlı sistem yönetimine kadar her katmanı tek başıma inşa ettim. Her yeni yıldız, önceki yolculuklardan öğrendiğim her şeyin bir yansımasıydı.
+
+Bu süreçte freelance projeler geliştirerek farklı sektörlerin ihtiyaçlarına çözüm üretmeye devam ettim. Aynı zamanda dünyanın farklı yerlerindeki deneyimli mühendislerin eğitimleriyle bakış açımı daha da derinleştirdim.
+
+## Projeler
+
+### Kreş Yönetim Sistemi
+
+Yönetim, öğretmen ve veliler için ayrı panellerden oluşan kapsamlı bir kreş yönetim sistemi geliştirdim. Bu proje, tasarım desenlerini ve katmanlı mimariyi ilk kez gerçek bir ürün üzerinde uyguladığım çalışma oldu. Mimari yaklaşımı ve kapsamı, Teknopark'a davet edilmemizi sağlayan ilk önemli dönüm noktalarından biriydi.
+
+JavaFX · PostgreSQL · MVC · Design Patterns
+
+### Yapay Sinir Ağları ile Ev Fiyat Tahmini
+
+Yazılımın yalnızca kurallardan ibaret olmadığını, veriden de öğrenebildiğini bu projeyle keşfettim. Üniversite bitirme projem kapsamında, gerçek konut verileriyle eğitilen bir yapay sinir ağı modeli geliştirerek ev fiyatlarını tahmin eden bir sistem tasarladım. Bu çalışma, veri modelleme ve makine öğrenmesine bakış açımı şekillendiren ilk önemli adım oldu.
+
+MATLAB · Yapay Sinir Ağları · Veri Modelleme
+
+[GitHub](https://github.com/erkanpulat/ev-fiyat-tahmini)
+
+### Eczane Sistemi
+
+Takım arkadaşlarımla birlikte geliştirdiğimiz bu proje, ekip çalışmasının yazılım geliştirme sürecindeki önemini deneyimlediğim ilk kapsamlı çalışmaydı. Reçete yönetimi, stok takibi ve temel eczane süreçlerini dijitalleştiren bir sistem geliştirirken, ortak bir mimari üzerinde birlikte üretmeyi, sorumluluk paylaşmayı ve büyük bir sistemi ekip olarak hayata geçirmeyi öğrendim.
+
+JSF · Java EE · MySQL · MVC
+
+[GitHub](https://github.com/erkanpulat/eczane-sistemi)
+
+### Cubicl İş Takip Platformu
+
+Yüzlerce kuruma aktif hizmet veren iş takip platformunun geliştirme sürecinde, yeni özelliklerin tasarımından canlı ortamdaki iyileştirmelere kadar yazılım yaşam döngüsünün her aşamasında aktif rol aldım. Kritik geliştirmeler, performans optimizasyonları ve anlık hata müdahaleleriyle platformun sürdürülebilirliğine katkı sağlarken; ölçeklenebilir, güvenilir ve uzun ömürlü sistemler geliştirmenin ne anlama geldiğini bu projede derinlemesine deneyimledim.
+
+Angular · JavaScript & TypeScript · PHP (Laravel) · Node.js (NestJS & Express.js) · MongoDB · Redis · Docker
+
+### Monkedo Otomasyon Sistemi
+
+Yüzlerce üçüncü taraf servisle entegre çalışabilen bu otomasyon ürününde; uygulama entegrasyonları, altyapı geliştirmeleri ve yeni modüllerin geliştirilmesinde rol aldım.
+
+Node.js (NestJS) · TypeScript · MongoDB
+
+### Toplantı Modülü
+
+Kurumların ihtiyaçları doğrultusunda geliştirdiğim bu modül ile toplantı planlama, alınan kararların takibi ve süreçlerin otomatik raporlanmasını tek bir yapıda bir araya getirdim. Sıfırdan tasarlayıp başarıyla teslim ettiğim çözüm, kurumların toplantı süreçlerini daha verimli ve izlenebilir hale getirdi.
+
+Angular · Node.js (NestJS) · TypeScript · MongoDB
+
+### Organigram Modülü
+
+Kurumların ihtiyaçları doğrultusunda geliştirdiğim bu modül ile organizasyon yapısını, birim yetkilendirmelerini ve vekalet süreçlerini tek bir merkezden yönetilebilir hale getirdim. Sıfırdan geliştirip sunumla birlikte başarıyla teslim ettiğim bu proje, kurumların operasyonel süreçlerini sadeleştirerek yönetim verimliliğini artırdı.
+
+Angular · Node.js (Express.js) · JavaScript & TypeScript · MongoDB
+
+### QuotaCrew for Codex
+
+Codex Account Manager, artık QuotaCrew. Codex hesaplarını, beş saatlik ve haftalık kotaları ve devam eden işleri tek pencerede yöneten açık kaynaklı Windows uygulamam. Otomatik hesap geçişi, Desktop ve VS Code’da aynı sohbette deneysel devam, iş takibi, otomatik kapatma ve uygulama içi güncellemeleri bir araya getiriyor. Türkçe ve İngilizce arayüzüyle ücretsiz kullanılabiliyor.
+
+Python · Windows · Codex
+
+[QuotaCrew for Codex](https://erkanpulat.github.io/projects/quotacrew/)
+
+[GitHub](https://github.com/erkanpulat/codex-quotacrew)
+
+### Radyotara
+
+Türkiye genelindeki tüm il ve ilçelerin radyo frekanslarını tek bir çatı altında toplayan bu platformu, insanların doğru frekansa hızlı ve kolay ulaşabilmesi için geliştirdim. Bugün aylık 17.000'in üzerinde kullanıcıya hizmet veren proje, sürekli güncellenen yapısıyla herkesin ücretsiz faydalanabildiği bir başvuru kaynağına dönüştü.
+
+Angular · TypeScript · Tailwind CSS · Node.js · SSG
+
+[Radyotara](https://erkanpulat.github.io/projects/radyotara/)
+
+[GitHub](https://github.com/erkanpulat/radyotara.com)
+
+[Website](https://radyotara.com)
+
+### KTO - Kelime Tahmin Oyunu
+
+Harflerden kelimeler ürettiğin KTO, Atlas ile Türkiye’nin dağlarını ve illerini keşfedebildiğin, İmla ile yazım kurallarını çalışabildiğin bir oyun ve öğrenme alanına dönüştü. Canlı kelime oyunu şu an çevrim dışı tekli modda çalışıyor; ilerleme cihazda saklanıyor.
+
+Angular · NestJS · MongoDB · Socket.IO · JWT · Google OAuth
+
+[KTO - Kelime Tahmin Oyunu](https://erkanpulat.github.io/projects/kelimetahminoyunu/)
+
+[GitHub](https://github.com/erkanpulat/kelimetahminoyunu.com)
+
+[Website](https://kelimetahminoyunu.com)
+
+### WhatsApp Bot - YouTube & Külliyat
+
+YouTube videolarına ve külliyat içeriklerine WhatsApp üzerinden doğal dil ile erişim sağlayan açık kaynak bir sohbet botu geliştirdim. Otomatik içerik toplama, anlam odaklı arama ve kullanıcı dostu mesajlaşma deneyimini bir araya getirerek bilgiye hızlı ve kolay erişim sağlayan bir proje oluşturdum.
+
+Node.js · TypeScript · WhatsApp & YouTube API
+
+[GitHub](https://github.com/erkanpulat/whatsapp-bot)
+
+### TaskBoard - Proje ve Görev Yönetimi
+
+Modern yazılım mimarilerini uygulamak amacıyla geliştirdiğim bu proje; ekiplerin projelerini ve görevlerini gerçek zamanlı olarak yönetebildiği kapsamlı bir platformdur. Rol tabanlı yetkilendirme, canlı bildirimler ve olay güdümlü mimari yaklaşımıyla, ölçeklenebilir ve sürdürülebilir sistem tasarımına odaklandım.
+
+React · Node.js (Express) · MongoDB · Redis · RabbitMQ · Socket.IO · Docker
+
+[GitHub](https://github.com/erkanpulat/taskboard)
+
+### NereyeGitti - Finans Uygulaması
+
+Gelir ve gider takibini sade, hızlı ve kullanıcı odaklı bir deneyime dönüştürmeyi amaçlayan kişisel finans yönetim platformu. Harcamaları analiz etmeyi, bütçe oluşturmayı ve finansal alışkanlıkları daha anlaşılır hale getirmeyi hedefleyen modern bir ürün olarak tasarlanıyor.
+
+React · Node.js (Express) · MongoDB · Redis · RabbitMQ · Socket.IO · Docker
+
+### Freelance Şirket Projeleri
+
+Farklı sektörlerde faaliyet gösteren şirketler için geliştirilen projelerde; ihtiyaçlara yönelik özelliklerin geliştirilmesi, mevcut sistemlerin iyileştirilmesi ve teknik problemlerin çözümüne katkı sağladım. Farklı ekiplerle ve farklı teknoloji ekosistemleriyle çalışarak, çeşitli iş alanlarında deneyim kazanma fırsatı elde ettim.
+
+React · Node.js · MongoDB · MySQL
+
+## İletişim
+
+- [GitHub](https://github.com/erkanpulat)
+- [LinkedIn](https://linkedin.com/in/erkanpulat)
+- [Email](mailto:dev.erkanpulat@gmail.com)
+
+
+---
+
+Source: https://erkanpulat.github.io/projects/quotacrew/
+
+# QuotaCrew for Codex
+
+> Codex hesapların, kalan kotaların ve devam eden işlerin tek pencerede. QuotaCrew ile kullanılabilir hesabı bul, geçişi yönet ve Desktop ya da VS Code’daki uygun sohbete kaldığın yerden devam et.
+
+Codex Account Manager, artık QuotaCrew for Codex.
+
+[QuotaCrew: Codex Hesap ve Kota Yöneticisi | Erkan Pulat](https://erkanpulat.github.io/projects/quotacrew/)
+
+Ücretsiz · Windows x64 · Python pakete dahil · Node.js gerekmez
+
+## Limitleri gör. Bir sonraki adımı seç.
+
+### Kalan kapasite tek bakışta
+
+Beş saatlik ve haftalık kalan kotayı, yenilenme zamanlarını, etkin hesabını ve sıfırlama haklarını aynı tabloda karşılaştır.
+
+### Geçişin kontrolü sende
+
+Hesabı kendin değiştir, öneriyi onayla veya kullanılabilir hesaba otomatik geçişi aç. İzleme ve devam tercihlerini dilediğinde duraklat.
+
+### Desktop ve VS Code’da devam
+
+Kota nedeniyle kesilen uygun iş için aynı konuşmaya devam isteği gönderilir. Mevcut hedef, talimatlar ve bütçe korunur.
+
+### İşler ve etkinlik takibi
+
+Çalışan, tamamlanan ve kota nedeniyle kesilen işleri gör. Devam isteğinin hazırlığını, gönderimini ve gözlenen sonucunu incele.
+
+### Çalışma düzenine uyum
+
+Sistem tepsisinde izle, Windows ile başlat veya iş tamamlanması, limitlerin dolması ya da süre sonunda kapatma planla.
+
+### Uygulama içinden güncelle
+
+Yeni kararlı sürümü ve sürüm notlarını gör. Kurulu uygulama, paketi doğrular ve verilerini yedekleyerek güncellenir.
+
+## Limit dolduğunda sohbetin kaybolmasın.
+
+İzleme ve ilgili devam seçeneği açıkken QuotaCrew kesilen işi ve kullanılabilir hesabı kontrol eder. Hesap geçişinden sonra aynı konuşmaya devam isteği gönderir ve yeni turun sonucunu takip eder.
+
+Desktop ve IDE’de otomatik devam deneyseldir; kurulu Codex sürümünün bağlantı desteğine bağlıdır. İşlem birkaç dakika sürebilir. Onay veya yanıt gereken adımlar sende kalır.
+
+[Devam akışının ayrıntıları ↗](https://github.com/erkanpulat/codex-quotacrew/blob/main/docs/continuity.md)
+
+## İşin nerede kaldığını bil.
+
+İşler sayfasında konuşmayı, bağlı hesabı ve son kontrol zamanını birlikte gör. Yerel sohbetlerini proje, kaynak, başlık veya klasöre göre ara; ilgili projeyi editöründe aç.
+
+## Editöründeki sohbette de devam et.
+
+VS Code’da OpenAI Codex eklentisini kullan. QuotaCrew’de IDE’de devam seçeneğini aç; oturumun yenilenmesi gerekiyorsa VS Code’u yenile seçeneğini etkinleştir. Tek yerel pencere, kesilen konuşmanın çalışma klasörü ve aynı sohbetle yeniden açılır.
+
+README’deki yapay zekâ ile hazırlanmış temsili görsel; canlı test ekranı değildir.
+
+## Başlat, takip et, tamamla.
+
+### Otomatik kapatma
+
+Seçilen iş tamamlandığında, tüm kayıtlı hesapların limitleri dolduğunda veya 1–1440 dakika sonunda kapatma planla. İş ve limit koşulları doğrulandığında, başka iş çalışmıyorsa iki dakikalık iptal edilebilir geri sayım başlar. Süreli mod işlerin bitmesini beklemez.
+
+### Doğrulanmış güncellemeler
+
+Kurulu sürüm yeni kararlı yayınları kontrol eder. Sürüm notlarını inceleyip Güncelle’ye bas: paket boyutu ve SHA-256 doğrulanır, veriler yedeklenir ve QuotaCrew yeniden başlar. Taşınabilir sürüm elle güncellenir.
+
+## Üç adımda kendi iş akışında.
+
+1. **İndir ve aç.** Son sürümden Windows kurulum paketini indir. Taşınabilir kullanım için ZIP’in tamamını bir klasöre çıkar ve QuotaCrew.exe dosyasını aç.
+2. **Tercihlerini seç.** İlk açılış yardımcısında izleme, geçiş, devam ve tepsi seçeneklerini ayarla. Codex CLI eksikse onayınla resmî Windows kurulumunu başlatır.
+3. **Hesaplarını ekle.** Hesaplarım → Hesap ekle bölümünden hesabına ad ver. Terminal ve tarayıcıdaki girişi tamamla; diğer hesaplarını ekleyip kotaları yenile.
+
+## Hesapların ve geçmişin cihazında.
+
+Profiller, ayarlar ve takip kayıtları yerel olarak saklanır. QuotaCrew telemetri toplamaz; giriş bilgilerini kendi sunucusuna göndermez. Kurulum ve güncellemeler mevcut Codex sohbet geçmişini korur.
+
+[Güvenlik ve veri saklama ↗](https://github.com/erkanpulat/codex-quotacrew/blob/main/SECURITY.md)
+
+## Merak edilenler
+
+### QuotaCrew nedir? Codex Account Manager ile aynı proje mi?
+
+Evet. QuotaCrew for Codex, Codex Account Manager projesinin güncel adıdır. Codex hesapları, kullanım kotaları, hesap geçişi ve uygun konuşmalarda devam için geliştirdiğim ücretsiz, MIT lisanslı Windows uygulamasıdır.
+
+### VS Code’da çalışıyor mu?
+
+Yerel VS Code’da, OpenAI Codex eklentisiyle açılmış konuşmalar için deneysel devam sunar. İsteğe bağlı otomatik yenileme tek yerel pencereyi destekler. Remote, WSL, bulut ve başka cihazdaki konuşmalar bu kapsamda değildir.
+
+### Kesilen her görev otomatik devam eder mi?
+
+Her görev için garanti verilmez. İzleme ve ilgili devam seçeneği açık olmalı; kota kesintisi, kullanılabilir hesap ve konuşma bağlantısı doğrulanmalıdır. Devam isteği yeni model girdisidir ve kota tüketebilir. Kullanıcı onayı gereken adımlar otomatik geçilmez.
+
+### Python veya Node.js kurmam gerekiyor mu?
+
+Windows paketi Python içerir; Node.js gerekmez. Codex CLI eksikse ilk açılış yardımcısı onayınla kurulumu sunar. Desktop geçişi Codex Desktop’ı yeniden başlatır; çalışmalarını önce kaydet.
+
+### Giriş bilgileri nasıl saklanıyor?
+
+Cihazında saklanır. Hazırlanan Microsoft Store sürümünde kayıtlı profil giriş bilgileri ve geçiş kurtarma verileri Windows DPAPI ile şifrelenir. Ortak Codex giriş dosyası ve SQLite metadata’sı şifrelenmez; eski yayımlanmış sürümler dosya izinleri kullanır. Ayrıntıları gizlilik politikasında bulabilirsin. Tanılama dışa aktarımı giriş bilgilerini, veritabanını ve konuşma metnini içermez.
+
+### Ücretsiz mi? Hesap kotalarını artırıyor mu?
+
+QuotaCrew ücretsiz ve açık kaynaklıdır. Hesap kotalarını artırmaz; mevcut hesapların kapasitesini takip etmeni ve geçişleri yönetmeni sağlar. OpenAI ile bağlantılı veya OpenAI tarafından onaylanmış değildir.
+
+## Bağlantılar
+
+- [Windows için indir](https://github.com/erkanpulat/codex-quotacrew/releases/latest)
+- [GitHub](https://github.com/erkanpulat/codex-quotacrew)
+- [README — English](https://github.com/erkanpulat/codex-quotacrew/blob/main/README.md)
+- [README — Türkçe](https://github.com/erkanpulat/codex-quotacrew/blob/main/README.tr.md)
+
+Bağımsız topluluk yazılımı. OpenAI ile bağlantılı değildir.
+
+
+---
+
+Source: https://erkanpulat.github.io/en/
+
+# Erkan Pulat — Software Engineer
+
+> A universe built with code — where a journey that began with curiosity stands today.
+
+https://erkanpulat.github.io/en/
+
+Istanbul
+
+## Journey and experience
+
+### The First Planet — İnönü University · Computer Engineering
+
+My first expedition took me to İnönü University. This is where I realized the software universe was far bigger than I had imagined.
+
+Algorithms, data structures, software engineering, machine learning… Each was a different galaxy waiting to be explored. Every time I charted one, another appeared on the horizon. With every discovery, the universe grew a little larger.
+
+And it was right here that my curiosity found its direction. I realized that what tied me to this journey wasn't just learning; it was turning what I discovered into solutions for real problems.
+
+### Transformation — Cubicl · METU Teknokent
+
+This time, what lay ahead weren't courses or assignments. There were real problems waiting to be solved, teammates who worked alongside me and trusted me, and thousands of users relying on the systems my code brought to life. This planet had rules of its own: every line I wrote had a consequence, every decision a cost.
+
+This planet was called Cubicl.
+
+I didn't just write software here. I took responsibility at every stage of a product's journey — from the first idea to meeting real users and evolving over time. This is where I learned that good engineering isn't just writing code; it's owning a system end to end, growing it, and keeping it reliably on its feet.
+
+### My Own Stars — Evolution
+
+For the first time, there was no ready-made route in front of me. Every star that would shine in this universe would be shaped by my own decisions.
+
+This time I turned years of experience into ideas of my own. I built every layer myself — from architecture to user experience, from server infrastructure to running live systems. Every new star was a reflection of everything I had learned on the journeys before it.
+
+Along the way, I kept building freelance projects to solve real needs across different industries, and deepened my perspective with courses taught by experienced engineers from around the world.
+
+## Projects
+
+### Preschool Management System
+
+I built a comprehensive preschool management system with separate panels for administrators, teachers and parents. It was the first project where I applied design patterns and layered architecture to a real product. Its architecture and scope became one of the early milestones that earned us an invitation to the Technopark.
+
+JavaFX · PostgreSQL · MVC · Design Patterns
+
+### House Price Prediction with Neural Networks
+
+This project showed me that software isn't only made of rules — it can learn from data as well. For my graduation project, I designed a system that predicts house prices using an artificial neural network trained on real housing data. It was the first major step in shaping how I think about data modeling and machine learning.
+
+MATLAB · Neural Networks · Data Modeling
+
+[GitHub](https://github.com/erkanpulat/ev-fiyat-tahmini)
+
+### Pharmacy System
+
+Built together with my teammates, this was the first extensive project where I experienced how much teamwork matters in software development. While building a system that digitalized prescription management, stock tracking and core pharmacy workflows, I learned to build on a shared architecture, share responsibility and bring a large system to life as a team.
+
+JSF · Java EE · MySQL · MVC
+
+[GitHub](https://github.com/erkanpulat/eczane-sistemi)
+
+### Cubicl Work Management Platform
+
+On a work management platform actively serving hundreds of organizations, I took an active role across the entire software lifecycle — from designing new features to improving the live environment. While contributing to the platform's sustainability through critical features, performance optimizations and rapid incident response, this is also where I deeply experienced what it means to build scalable, reliable, long-lived systems.
+
+Angular · JavaScript & TypeScript · PHP (Laravel) · Node.js (NestJS & Express.js) · MongoDB · Redis · Docker
+
+### Monkedo Automation Platform
+
+On this automation product that integrates with hundreds of third-party services, I worked on application integrations, infrastructure improvements and the development of new modules.
+
+Node.js (NestJS) · TypeScript · MongoDB
+
+### Meeting Module
+
+Built around corporate needs, this module brings meeting planning, decision tracking and automated reporting together in a single structure. Designed from scratch and delivered successfully, it made organizations' meeting processes more efficient and traceable.
+
+Angular · Node.js (NestJS) · TypeScript · MongoDB
+
+### Organization Chart Module
+
+With this module, built around corporate needs, I made organization structures, unit-level permissions and delegation workflows manageable from a single place. Developed from scratch and delivered together with a presentation, it simplified operational processes and improved management efficiency.
+
+Angular · Node.js (Express.js) · JavaScript & TypeScript · MongoDB
+
+### QuotaCrew for Codex
+
+Codex Account Manager is now QuotaCrew. My open-source Windows app brings Codex accounts, five-hour and weekly quotas, and ongoing work into one window. It combines automatic account switching, experimental same-conversation continuation in Desktop and VS Code, job tracking, scheduled shutdown and in-app updates. Free to use, with English and Turkish interfaces.
+
+Python · Windows · Codex
+
+[QuotaCrew for Codex](https://erkanpulat.github.io/en/projects/quotacrew/)
+
+[GitHub](https://github.com/erkanpulat/codex-quotacrew)
+
+### Radyotara
+
+I built this platform to gather the radio frequencies of every city and district across Türkiye under one roof, so people can find the right frequency quickly and easily. Serving more than 17,000 monthly users today, it has grown into a constantly updated reference that everyone can use for free.
+
+Angular · TypeScript · Tailwind CSS · Node.js · SSG
+
+[Radyotara](https://erkanpulat.github.io/projects/radyotara/)
+
+[GitHub](https://github.com/erkanpulat/radyotara.com)
+
+[Website](https://radyotara.com)
+
+### KTO - Word Guessing Game
+
+KTO has grown from a word game into a place to play and learn: explore Türkiye’s mountains and provinces in Atlas, and practice Turkish spelling in İmla. The live word game currently runs in offline single-player mode, with progress saved on the device.
+
+Angular · NestJS · MongoDB · Socket.IO · JWT · Google OAuth
+
+[KTO - Word Guessing Game](https://erkanpulat.github.io/projects/kelimetahminoyunu/)
+
+[GitHub](https://github.com/erkanpulat/kelimetahminoyunu.com)
+
+[Website](https://kelimetahminoyunu.com)
+
+### WhatsApp Bot - YouTube & Archive
+
+I built an open-source chatbot that provides natural-language access to YouTube videos and archive content over WhatsApp. Combining automated content collection, semantic search and a user-friendly messaging experience, it makes information quick and easy to reach.
+
+Node.js · TypeScript · WhatsApp & YouTube API
+
+[GitHub](https://github.com/erkanpulat/whatsapp-bot)
+
+### TaskBoard - Project & Task Management
+
+Built to put modern software architectures into practice, this is a comprehensive platform where teams manage their projects and tasks in real time. With role-based authorization, live notifications and an event-driven architecture, I focused on scalable and sustainable system design.
+
+React · Node.js (Express) · MongoDB · Redis · RabbitMQ · Socket.IO · Docker
+
+[GitHub](https://github.com/erkanpulat/taskboard)
+
+### NereyeGitti - Personal Finance App
+
+A personal finance platform that aims to turn income and expense tracking into a simple, fast and user-focused experience. It is being designed as a modern product that helps analyze spending, build budgets and make financial habits easier to understand.
+
+React · Node.js (Express) · MongoDB · Redis · RabbitMQ · Socket.IO · Docker
+
+### Freelance Client Projects
+
+Across projects built for companies in different industries, I developed tailored features, improved existing systems and helped solve technical problems. Working with different teams and technology ecosystems gave me hands-on experience across a wide range of business domains.
+
+React · Node.js · MongoDB · MySQL
+
+## Contact
+
+- [GitHub](https://github.com/erkanpulat)
+- [LinkedIn](https://linkedin.com/in/erkanpulat)
+- [Email](mailto:dev.erkanpulat@gmail.com)
+
+
+---
+
+Source: https://erkanpulat.github.io/en/projects/quotacrew/
+
+# QuotaCrew for Codex
+
+> Your Codex accounts, remaining quotas and ongoing work in one window. Find an available account, choose how you switch, and request continuation of eligible conversations in Desktop or VS Code with QuotaCrew.
+
+Codex Account Manager is now QuotaCrew for Codex.
+
+[QuotaCrew: Codex Account & Quota Manager | Erkan Pulat](https://erkanpulat.github.io/en/projects/quotacrew/)
+
+Free · Windows x64 · Python included · No Node.js required
+
+## See your limits. Choose your next step.
+
+### Capacity at a glance
+
+Compare five-hour and weekly remaining quotas, renewal times, the active account and reset credits in one table.
+
+### Switch on your terms
+
+Change accounts yourself, approve a suggestion or enable automatic switching to an available account. Pause monitoring and continuation whenever you need.
+
+### Continue in Desktop and VS Code
+
+A continuation request goes to the same eligible, quota-interrupted conversation. Its existing goal, instructions and budget stay in place.
+
+### Jobs and activity
+
+Follow running, completed and quota-interrupted work. Inspect preparation, submission and the observed result of a continuation request.
+
+### Fit your working routine
+
+Monitor from the system tray, start with Windows or schedule shutdown when work finishes, limits run out or a timer expires.
+
+### Update from the app
+
+Review new stable releases and release notes. Installed copies verify the package and back up local data before updating.
+
+## When a limit hits, keep the conversation.
+
+With monitoring and the relevant continuation option enabled, QuotaCrew checks interrupted work and an available account. After switching, it sends a request to the same conversation and tracks the new turn’s result.
+
+Automatic Desktop and IDE continuation is experimental and depends on connection support in your installed Codex version. The handoff can take a few minutes. Approval steps and user responses stay under your control.
+
+[Read the continuation details ↗](https://github.com/erkanpulat/codex-quotacrew/blob/main/docs/continuity.md)
+
+## Know where your work stands.
+
+See conversations, their accounts and last-check times together in Jobs. Search local history by project, source, title or folder and open the project in your editor.
+
+## Continue inside your editor, too.
+
+Use OpenAI’s Codex extension in VS Code. Enable IDE continuation in QuotaCrew; if the session needs to reload, also enable VS Code refresh. The single local window reopens the interrupted conversation’s workspace and that same conversation.
+
+AI-generated illustration from the README; this is not a live test screenshot.
+
+## Start, follow, finish.
+
+### Automatic shutdown
+
+Plan shutdown after a selected job finishes, all saved accounts’ available limits run out, or 1–1440 minutes. Verified work and limit conditions begin a cancellable two-minute countdown when no other work is running. Timer mode does not wait for jobs to finish.
+
+### Verified updates
+
+Installed copies check for stable releases. Read the release notes and choose Update: package size and SHA-256 are verified, data is backed up and QuotaCrew restarts. Portable copies are updated manually.
+
+## Three steps to your own workflow.
+
+1. **Download and open.** Get the Windows installer from the latest release. For portable use, extract the entire ZIP into a folder and open QuotaCrew.exe.
+2. **Choose your preferences.** The first-run assistant introduces monitoring, switching, continuation and tray options. If Codex CLI is missing, it offers official Windows installation with your consent.
+3. **Add your accounts.** Open My accounts → Add account and give it a recognizable name. Complete sign-in in the terminal and browser, add your other accounts and refresh their quotas.
+
+## Your accounts and history stay local.
+
+Profiles, preferences and tracking records stay on your computer. QuotaCrew has no telemetry or credential proxy. Installation and updates preserve your existing Codex conversation history.
+
+[Security and data storage ↗](https://github.com/erkanpulat/codex-quotacrew/blob/main/SECURITY.md)
+
+## Questions before you start
+
+### What is QuotaCrew? Is it Codex Account Manager?
+
+Yes. QuotaCrew for Codex is the new name of Codex Account Manager. It is a free, MIT-licensed Windows app I built for Codex accounts, quota tracking, account switching and continuation of eligible conversations.
+
+### Does it work with VS Code?
+
+It offers experimental continuation for local VS Code conversations opened with OpenAI’s Codex extension. Optional automatic refresh supports one local window. Remote, WSL, cloud and other-device conversations are outside this scope.
+
+### Will every interrupted task resume automatically?
+
+Continuation is not guaranteed for every task. Monitoring and the relevant option must be enabled; the quota interruption, available account and conversation connection must be verified. A continuation request is new model input and can consume quota. User approval steps are not skipped.
+
+### Do I need to install Python or Node.js?
+
+The Windows package includes Python; Node.js is not required. If Codex CLI is missing, the first-run assistant offers installation with your consent. Account switching restarts Codex Desktop; save your work first.
+
+### How are credentials stored?
+
+They stay on your computer. The Microsoft Store build in preparation encrypts saved profile credentials and switch-recovery data with Windows DPAPI. The shared Codex credential file and SQLite metadata remain unencrypted; older published versions use file permissions. See the privacy policy for details. Diagnostic exports exclude credentials, databases and conversation text.
+
+### Is it free? Does it increase account quotas?
+
+QuotaCrew is free and open source. It does not increase quotas; it helps you track existing capacity and manage account switches. It is independent community software, not affiliated with or endorsed by OpenAI.
+
+## Links
+
+- [Download for Windows](https://github.com/erkanpulat/codex-quotacrew/releases/latest)
+- [GitHub](https://github.com/erkanpulat/codex-quotacrew)
+- [README — English](https://github.com/erkanpulat/codex-quotacrew/blob/main/README.md)
+- [README — Türkçe](https://github.com/erkanpulat/codex-quotacrew/blob/main/README.tr.md)
+
+Independent community software. Not affiliated with OpenAI.

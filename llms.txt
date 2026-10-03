@@ -1,0 +1,28 @@
+# Erkan Pulat
+
+> Software engineer in Istanbul. Portfolio of full-stack engineering work and independent products, including QuotaCrew for Codex, Radyotara and Kelime Tahmin Oyunu.
+
+Turkish and English content is available. QuotaCrew for Codex is the current name of Codex Account Manager. Its canonical project pages use /projects/quotacrew/ and /en/projects/quotacrew/. The former account-manager URLs redirect to them.
+
+## Portfolio
+
+- [Erkan Pulat — Türkçe](https://erkanpulat.github.io/index.md): Career, engineering experience, projects and public contact links, generated from the Turkish portfolio content.
+- [Erkan Pulat — English](https://erkanpulat.github.io/en/index.md): English career, projects and contact reference, generated from the English portfolio content.
+
+## QuotaCrew for Codex
+
+- [QuotaCrew — Türkçe](https://erkanpulat.github.io/projects/quotacrew/index.md): Codex account and quota management, switching, experimental Desktop/VS Code continuation, job tracking, setup and privacy.
+- [QuotaCrew — English](https://erkanpulat.github.io/en/projects/quotacrew/index.md): English product reference, features, supported scope and limitations.
+- [Windows downloads](https://github.com/erkanpulat/codex-quotacrew/releases/latest): Official project release page for this independent MIT-licensed application.
+- [Source code](https://github.com/erkanpulat/codex-quotacrew): QuotaCrew source and documentation.
+
+## Other projects
+
+- [Radyotara](https://erkanpulat.github.io/projects/radyotara/): Radio frequency directory project showcase.
+- [Kelime Tahmin Oyunu](https://erkanpulat.github.io/projects/kelimetahminoyunu/): Word game project showcase.
+
+## Optional
+
+- [Full portfolio and QuotaCrew reference](https://erkanpulat.github.io/llms-full.txt): Combined Turkish and English Markdown references generated from the same source content.
+- [Sitemap](https://erkanpulat.github.io/sitemap.xml): Canonical HTML pages for search engines.
+- [Crawling policy](https://erkanpulat.github.io/robots.txt): Site crawling policy.
