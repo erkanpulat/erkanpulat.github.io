@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="tr">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Kelime Tahmin Oyunu - Atlas ve İmla | Erkan Pulat - Yeni adres</title>
+		<meta
+			name="description"
+			content="Ücretsiz Türkçe kelime oyunu oyna. KTO Atlas ile Türkiye coğrafyasını keşfet, KTO İmla ile doğru yazımı çalış. Erkan Pulat’ın bağımsız yazılım projesi."
+		/>
+		<meta name="robots" content="noindex, follow" />
+		<link rel="canonical" href="https://erkanpulat.github.io/projects/kelime-tahmin-oyunu/" />
+		<script>
+			const destination = new URL("/projects/kelime-tahmin-oyunu/", location.origin);
+			const language = new URLSearchParams(location.search).get("lang");
+			if (language === "en" || language === "tr")
+				destination.pathname =
+					(language === "en" ? "/en" : "") + "/projects/kelime-tahmin-oyunu/";
+			destination.hash = location.hash;
+			location.replace(destination.href);
+		</script>
+		<meta
+			http-equiv="refresh"
+			content="0; url=https://erkanpulat.github.io/projects/kelime-tahmin-oyunu/"
+		/>
+	</head>
+	<body>
+		<h1>Kelime Tahmin Oyunu</h1>
+		<p><a href="/projects/kelime-tahmin-oyunu/">Kelime Tahmin Oyunu</a></p>
+	</body>
+</html>
