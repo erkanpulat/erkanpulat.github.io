@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Kelime Tahmin Oyunu - Word Game, Atlas &amp; İmla | Erkan Pulat - New address</title>
+		<meta
+			name="description"
+			content="Play a free Turkish word game. Explore Türkiye’s geography with KTO Atlas and practice Turkish spelling with KTO İmla. A web game developed by Erkan Pulat with ODAKOD Yazılım."
+		/>
+		<meta name="robots" content="noindex, follow" />
+		<link
+			rel="canonical"
+			href="https://erkanpulat.github.io/en/projects/kelime-tahmin-oyunu/"
+		/>
+		<script>
+			const destination = new URL("/en/projects/kelime-tahmin-oyunu/", location.origin);
+			const language = new URLSearchParams(location.search).get("lang");
+			if (language === "en" || language === "tr")
+				destination.pathname =
+					(language === "en" ? "/en" : "") + "/projects/kelime-tahmin-oyunu/";
+			destination.hash = location.hash;
+			location.replace(destination.href);
+		</script>
+		<meta
+			http-equiv="refresh"
+			content="0; url=https://erkanpulat.github.io/en/projects/kelime-tahmin-oyunu/"
+		/>
+	</head>
+	<body>
+		<h1>Kelime Tahmin Oyunu</h1>
+		<p><a href="/en/projects/kelime-tahmin-oyunu/">Kelime Tahmin Oyunu</a></p>
+	</body>
+</html>

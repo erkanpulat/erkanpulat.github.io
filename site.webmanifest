@@ -1,0 +1,21 @@
+{
+	"name": "Erkan Pulat",
+	"short_name": "Erkan Pulat",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#171A39",
+	"background_color": "#171A39",
+	"icons": [
+		{
+			"src": "/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}
